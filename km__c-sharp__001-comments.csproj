@@ -1,5 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
+// idk
 
+/* multi  line
+thing. */
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>km__c_sharp__001_comments</RootNamespace>
